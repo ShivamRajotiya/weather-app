@@ -40,6 +40,8 @@ const showWeather = (data) => {
     
     
     `;
+      search.value="";
+
 };
 
 form.addEventListener("submit", function (event) {
