@@ -82,7 +82,7 @@
     opacity: 1;
   }
 }
-@media (min-width: 480px) {
+@media (min-width: 340px) {
   .navbar {
     display: flex;
     flex-direction: column;
